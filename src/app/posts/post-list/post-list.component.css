@@ -1,0 +1,11 @@
+p{
+    text-align: center;
+}
+
+mat-accordion {
+    margin: 50px;
+}
+
+.img-prev img {
+  width: 100%;
+}

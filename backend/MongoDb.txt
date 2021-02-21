@@ -1,0 +1,15 @@
+1- MONGO_DB
+  -- A no SQL database
+  -- documents in collections
+  -- no relations
+  -- no connected with angular
+  -- easly to connected with node and express
+
+  -- npm install --save mongodb
+  -- npm install --save mongoose used this in this project
+  PS: b7qnUrdWGQy9OeBo
+  IP: 154.134.235.132
+
+2- Database scema
+  -- create folder inside backend [ models ]
+  -- create post.js
